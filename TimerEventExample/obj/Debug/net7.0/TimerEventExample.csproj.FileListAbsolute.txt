@@ -1,0 +1,5 @@
+C:\Users\vicen\Desktop\lab\Events C#\Events\TimerEventExample\obj\Debug\net7.0\TimerEventExample.csproj.AssemblyReference.cache
+C:\Users\vicen\Desktop\lab\Events C#\Events\TimerEventExample\obj\Debug\net7.0\TimerEventExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vicen\Desktop\lab\Events C#\Events\TimerEventExample\obj\Debug\net7.0\TimerEventExample.AssemblyInfoInputs.cache
+C:\Users\vicen\Desktop\lab\Events C#\Events\TimerEventExample\obj\Debug\net7.0\TimerEventExample.AssemblyInfo.cs
+C:\Users\vicen\Desktop\lab\Events C#\Events\TimerEventExample\obj\Debug\net7.0\TimerEventExample.csproj.CoreCompileInputs.cache

@@ -1,0 +1,8 @@
+C:\Users\vicen\Desktop\lab\Events C#\Events\ClickEventExample\bin\Debug\ClickEventExample.dll
+C:\Users\vicen\Desktop\lab\Events C#\Events\ClickEventExample\bin\Debug\ClickEventExample.pdb
+C:\Users\vicen\Desktop\lab\Events C#\Events\ClickEventExample\obj\Debug\ClickEventExample.csproj.AssemblyReference.cache
+C:\Users\vicen\Desktop\lab\Events C#\Events\ClickEventExample\obj\Debug\ClickEventExample.UserControl1.resources
+C:\Users\vicen\Desktop\lab\Events C#\Events\ClickEventExample\obj\Debug\ClickEventExample.csproj.GenerateResource.cache
+C:\Users\vicen\Desktop\lab\Events C#\Events\ClickEventExample\obj\Debug\ClickEventExample.csproj.CoreCompileInputs.cache
+C:\Users\vicen\Desktop\lab\Events C#\Events\ClickEventExample\obj\Debug\ClickEventExample.dll
+C:\Users\vicen\Desktop\lab\Events C#\Events\ClickEventExample\obj\Debug\ClickEventExample.pdb
